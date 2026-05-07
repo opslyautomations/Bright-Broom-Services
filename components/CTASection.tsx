@@ -30,6 +30,18 @@ export default function CTASection({
             </a>
           )}
         </div>
+        <div className="mt-8 flex items-center justify-center gap-2">
+          <a
+            href="https://www.instagram.com/brightbroomservices"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-white/80 hover:text-white text-sm transition-colors"
+            aria-label="Follow Bright Broom Service on Instagram"
+          >
+            <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><rect x="2" y="2" width="20" height="20" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" /><line x1="17.5" y1="6.5" x2="17.51" y2="6.5" /></svg>
+            Follow us @brightbroomservices
+          </a>
+        </div>
       </div>
     </section>
   )

@@ -262,6 +262,26 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Instagram Follow */}
+      <section className="py-12 bg-gray-soft">
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <a
+            href="https://www.instagram.com/brightbroomservices"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 bg-white rounded-2xl shadow-md px-8 py-5 hover:shadow-lg transition-shadow group"
+            aria-label="Follow Bright Broom Service on Instagram"
+          >
+            <svg className="w-8 h-8 text-pink-500 group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}><rect x="2" y="2" width="20" height="20" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" /><line x1="17.5" y1="6.5" x2="17.51" y2="6.5" /></svg>
+            <div className="text-left">
+              <p className="font-bold text-navy-brand">Follow us on Instagram</p>
+              <p className="text-sm text-slate-brand">@brightbroomservices — cleaning tips, before &amp; afters, and more</p>
+            </div>
+            <svg className="w-5 h-5 text-slate-brand ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
+          </a>
+        </div>
+      </section>
+
       <CTASection />
     </>
   )
