@@ -11,7 +11,7 @@ export default function Footer() {
           {/* Column 1: Brand */}
           <div>
             <Link href="/" aria-label="Bright Broom Service Home">
-              <Image src="/logo.png" alt="Bright Broom Service" width={150} height={45} className="h-10 w-auto mb-4 brightness-0 invert" />
+              <Image src="/logo.png" alt="Bright Broom Service" width={56} height={56} className="h-14 w-14 object-contain mb-4 brightness-0 invert" />
             </Link>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">Family-owned cleaning, dependable in 5 states.</p>
             <address className="not-italic space-y-2">

@@ -47,7 +47,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 h-full flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex-shrink-0" aria-label="Bright Broom Service — Home">
-          <Image src="/logo.png" alt="Bright Broom Service logo" width={160} height={48} priority className="h-10 w-auto" />
+          <Image src="/logo.png" alt="Bright Broom Service logo" width={56} height={56} priority className="h-14 w-14 object-contain" />
         </Link>
 
         {/* Desktop Nav */}
