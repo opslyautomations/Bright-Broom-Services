@@ -1,0 +1,69 @@
+# Bright Broom Service
+> A family-owned, multi-state cleaning company offering residential, commercial, specialty, and post-construction cleaning across California, Arizona, Nevada, Colorado, and Virginia. Headquartered in Santa Maria, CA. Owner: Justin. Quote-based pricing.
+
+## Contact
+- Phone: (480) 553-9464
+- Email: info@brightbroomservice.com
+- Hours: By appointment — flexible scheduling, 7 days a week
+- Website: https://www.brightbroomservice.com
+
+## Services
+- [Standard Cleaning](https://www.brightbroomservice.com/services/standard-cleaning): Recurring weekly, bi-weekly, or monthly home cleaning to keep your space consistently fresh.
+- [Deep Cleaning](https://www.brightbroomservice.com/services/deep-cleaning): Top-to-bottom intensive cleaning that targets buildup, grime, and neglected areas.
+- [Move-In / Move-Out Cleaning](https://www.brightbroomservice.com/services/move-in-move-out-cleaning): Turnover cleaning for renters, homeowners, landlords, and property managers.
+- [Commercial / Janitorial Cleaning](https://www.brightbroomservice.com/services/commercial-janitorial-cleaning): Recurring office, retail, medical, and professional space cleaning.
+- [Specialty Cleaning](https://www.brightbroomservice.com/services/specialty-cleaning): Airbnb turnovers, carpet, exterior, hardwood, tile/grout, hoarding, and allergen-focused cleaning.
+- [Post-Construction / Industrial Cleaning](https://www.brightbroomservice.com/services/post-construction-cleaning): Heavy-duty cleanup after construction or renovation, including rough, final, and touch-up phases.
+
+## Service Areas
+
+### California
+- [Santa Maria](https://www.brightbroomservice.com/locations/california/santa-maria): Headquarters city; Central Coast residential and commercial cleaning.
+- [Santa Barbara](https://www.brightbroomservice.com/locations/california/santa-barbara): Residential and commercial cleaning across Santa Barbara County.
+- [San Luis Obispo](https://www.brightbroomservice.com/locations/california/san-luis-obispo): SLO County residential, deep, and specialty cleaning.
+- [Bakersfield](https://www.brightbroomservice.com/locations/california/bakersfield): Kern County residential and commercial cleaning.
+- [Lompoc](https://www.brightbroomservice.com/locations/california/lompoc): Lompoc Valley home and business cleaning.
+- [Orcutt](https://www.brightbroomservice.com/locations/california/orcutt): Orcutt residential cleaning and specialty services.
+- [Nipomo](https://www.brightbroomservice.com/locations/california/nipomo): Nipomo home cleaning and turnover services.
+- [Avila Beach](https://www.brightbroomservice.com/locations/california/avila-beach): Avila Beach residential and vacation rental cleaning.
+- [Pismo Beach](https://www.brightbroomservice.com/locations/california/pismo-beach): Pismo Beach short-term rental and home cleaning.
+- [Guadalupe](https://www.brightbroomservice.com/locations/california/guadalupe): Guadalupe residential and commercial cleaning.
+- [Arroyo Grande](https://www.brightbroomservice.com/locations/california/arroyo-grande): Arroyo Grande home and business cleaning.
+- [Buellton](https://www.brightbroomservice.com/locations/california/buellton): Buellton residential and specialty cleaning.
+- [Solvang](https://www.brightbroomservice.com/locations/california/solvang): Solvang home and vacation rental cleaning.
+- [Santa Ynez](https://www.brightbroomservice.com/locations/california/santa-ynez): Santa Ynez Valley residential and ranch property cleaning.
+
+### Arizona
+- [Gilbert](https://www.brightbroomservice.com/locations/arizona/gilbert): Gilbert residential and commercial cleaning.
+- [Phoenix](https://www.brightbroomservice.com/locations/arizona/phoenix): Greater Phoenix residential, deep, and post-construction cleaning.
+- [Scottsdale](https://www.brightbroomservice.com/locations/arizona/scottsdale): Scottsdale luxury residential and commercial cleaning.
+- [Mesa](https://www.brightbroomservice.com/locations/arizona/mesa): Mesa home and business cleaning services.
+- [Chandler](https://www.brightbroomservice.com/locations/arizona/chandler): Chandler residential and office cleaning.
+
+### Nevada
+- [Las Vegas](https://www.brightbroomservice.com/locations/nevada/las-vegas): Las Vegas residential, commercial, and STR turnover cleaning.
+- [Spring Valley](https://www.brightbroomservice.com/locations/nevada/spring-valley): Spring Valley home and business cleaning.
+- [Paradise](https://www.brightbroomservice.com/locations/nevada/paradise): Paradise residential and commercial cleaning.
+
+### Colorado
+- [Denver](https://www.brightbroomservice.com/locations/colorado/denver): Denver residential, commercial, and post-construction cleaning.
+- [Aurora](https://www.brightbroomservice.com/locations/colorado/aurora): Aurora home and business cleaning.
+- [Arvada](https://www.brightbroomservice.com/locations/colorado/arvada): Arvada residential and specialty cleaning.
+- [Lakewood](https://www.brightbroomservice.com/locations/colorado/lakewood): Lakewood home and commercial cleaning.
+
+### Virginia / DC Metro
+- [Washington DC](https://www.brightbroomservice.com/locations/virginia/washington-dc): DC metro residential and commercial cleaning.
+- [Arlington](https://www.brightbroomservice.com/locations/virginia/arlington): Arlington home and office cleaning.
+- [Alexandria](https://www.brightbroomservice.com/locations/virginia/alexandria): Alexandria residential and historic-home cleaning.
+- [Annandale](https://www.brightbroomservice.com/locations/virginia/annandale): Annandale residential and small-business cleaning.
+- [McLean](https://www.brightbroomservice.com/locations/virginia/mclean): McLean luxury residential and commercial cleaning.
+
+## Company
+- [About Us](https://www.brightbroomservice.com/about): Our story, values, and what makes Bright Broom Service different.
+- [Reviews](https://www.brightbroomservice.com/reviews): Real client reviews from across our service areas.
+- [Gallery](https://www.brightbroomservice.com/gallery): Before-and-after work and project photos.
+- [Contact](https://www.brightbroomservice.com/contact): Get a free quote, call, or email.
+
+## Blog
+- [Blog Index](https://www.brightbroomservice.com/blog): Long-form guides on cleaning services, schedules, and what to expect by region.
+- All 20 individual blog posts are listed in `/sitemap.xml` and indexed at `/blog`.
