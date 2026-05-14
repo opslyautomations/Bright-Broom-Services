@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Raw source location photos (processed into lowercase slug .webp files)
+public/images/locations/**/*.jpg
+public/images/locations/**/[A-Z]*.webp
+
+# Duplicate app files
+app/globals\ 2.css
+app/layout\ 2.tsx
+app/page\ 2.tsx
